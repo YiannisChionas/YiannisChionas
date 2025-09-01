@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yiannis</h1>
 <h3 align="center">A passionate computer science student from Greece</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yiannischionas" alt="yiannischionas" /></a> </p>
-
 - 🔭 I’m currently working on [MedMonkey](https://github.com/YiannisChionas/MedMonkey.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YiannisChionas](https://github.com/YiannisChionas)
