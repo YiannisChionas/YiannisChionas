@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ιωαννης χιονας" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ιωαννης χιονας" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%CE%B9%CF%89%CE%B1%CE%BD%CE%BD%CE%B7%CF%82-%CF%87%CE%B9%CE%BF%CE%BD%CE%B1%CF%82-958756361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ιωαννης χιονας" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
