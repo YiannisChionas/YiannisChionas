@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yiannis</h1>
 <h3 align="center">A passionate computer science student from Greece</h3>
 
-- 🔭 I’m currently working on [MedMonkey](https://github.com/YiannisChionas/MedMonkey.git)
+- 🔭 I’m currently working on [NutritionMonkey](https://github.com/YiannisChionas/NutritionMonkey)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YiannisChionas](https://github.com/YiannisChionas)
 
